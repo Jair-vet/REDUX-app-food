@@ -1,4 +1,4 @@
-import productos from '../data/db.json'
+
 
 export const Products = () => {
     return (
